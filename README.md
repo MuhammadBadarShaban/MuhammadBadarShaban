@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammadBadarShaban
+- 👋 Hi, I’m @BadarShaban
 - 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
